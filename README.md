@@ -1,10 +1,11 @@
 # Storing and Retrieving Data: Project
 
 ## Team Members
+- Ana Marta Azinheira
+- Catarina
 - Gaspar
 - Marco Galão
 - Rita
-- ...
 
 ## Submission Details
 - **Platform**: Moodle
