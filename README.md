@@ -2,10 +2,10 @@
 
 ## Team Members
 - Ana Marta Azinheira
-- Catarina
-- Gaspar
+- Catarina Ribeirinha
+- Gaspar Pimenta
 - Marco Galão
-- Rita
+- Rita Wang
 
 ## Submission Details
 - **Platform**: Moodle
