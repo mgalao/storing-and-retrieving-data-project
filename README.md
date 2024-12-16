@@ -3,7 +3,7 @@
 ## Team Members
 - Ana Marta Azinheira
 - Catarina Ribeirinha
-- Gaspar Pimenta
+- Gaspar Pereira
 - Marco Galão
 - Rita Wang
 
